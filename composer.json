@@ -24,7 +24,7 @@
           "type": "vcs",
           "url": "https://github.com/sunnysideup/silverstripe-hasoneautocompletefield/"
         }
-    ]
+    ],
 	"require": {
 		"silverstripe/framework": "^4.0",
         "silverstripe/cms": "^4.0",
